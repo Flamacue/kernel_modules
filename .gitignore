@@ -1,0 +1,8 @@
+hello.c
+*.ko
+*.mod.c
+*.mod.o
+*.o
+Makefile
+modules.order
+Module.symvers
