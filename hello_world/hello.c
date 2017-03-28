@@ -7,7 +7,7 @@ MODULE_AUTHOR("Adam K. Sumner");
 MODULE_DESCRIPTION("We all gotta start somewhere");
 
 static int __init hello_init(void){
-  printk(KERN_DEBUG "I'm now around here! Hello!\n");
+  printk(KERN_DEBUG "I've infiltrated the kernel!\n");
   return 0;
 }
 
